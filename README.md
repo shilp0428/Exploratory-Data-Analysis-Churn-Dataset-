@@ -136,9 +136,3 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-* Ppt Presentation Link:-https://drive.google.com/file/d/1L2F4PSKJJCFTdGtV1Wf1lRPkTkXSgv-9/view?usp=sharing
-
-
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
