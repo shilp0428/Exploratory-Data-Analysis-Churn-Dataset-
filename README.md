@@ -3,7 +3,7 @@
 <h1 align="center"> Telecom Churn Analysis
  </h1>
 
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+<h3 align="center"> Great Learning Verfied Project - <a href="https://www.almabetter.com/"> Great Lakes Institute </a> </h5>
 
 ![telcom](https://user-images.githubusercontent.com/95616692/167258167-901f3de8-0bd5-46ea-ada1-d04ecf985cac.png)
 
